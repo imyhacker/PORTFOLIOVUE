@@ -1,0 +1,34 @@
+<template>
+  <div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-danger nav-s fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item ps-3">
+              <router-link to="/" class="nav-link">Home</router-link>
+            </li>
+            <li class="nav-item ps-3">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item ps-3">
+              <router-link to="/about" class="nav-link">asd</router-link>
+            </li>
+            <li class="nav-item ps-3">
+              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Navbar',
+};
+</script>
