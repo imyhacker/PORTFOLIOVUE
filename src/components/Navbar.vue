@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-s fixed-top shadow-lg py-3">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-blue nav-s fixed-top shadow-sm py-3">
       <div class="container">
         <a class="navbar-brand" href="#">Ari Farhan</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,6 +16,9 @@
             </li>
             <li class="nav-item ps-3">
               <router-link to="/skill" class="nav-link text-white">Skill</router-link>
+            </li>
+            <li class="nav-item ps-3">
+              <router-link to="/achievement" class="nav-link text-white">Achievement</router-link>
             </li>
           </ul>
         </div>

@@ -3,14 +3,13 @@
     <div class="home mt-5 fontt">
       <div class="jumbotron text-center py-5">
         <img src="../assets/pp.jpeg" class="rounded-circle img-thumbnail shadow-lg" width="200" />
-        <h1 class="display-5 mt-3 fw-bolder text-light">Ari Farhan</h1>
-        <p class="lead fst-italic">
+        <h1 class="display-5 mt-3 fw-bolder text-light" data-aos="zoom-in-down" data-aos-delay="200">Ari Farhan</h1>
+        <p class="lead fst-italic" data-aos="zoom-in-down" data-aos-delay="1000" data-aos-duration="1000">
           "Just ordinary people who like technology"
         </p>
-        <p class="text-white fw-bolder font-monospace">
+        <p class="text-white fw-bolder font-monospace" data-aos="flip-down" data-aos-delay="1000">
           Web Developer | Content Creator
         </p>
-
         <a class="btn btn-outline-danger btn-sm cus-btn text-white" href="#" role="button">Knew Me More </a>
       </div>
     </div>
