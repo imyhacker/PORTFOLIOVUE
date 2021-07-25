@@ -25,6 +25,11 @@ const routes = [
     name: 'Achievement',
     component: () => import('../views/Achievement.vue'),
   },
+  {
+    path: '/project',
+    name: 'Project',
+    component: () => import('../views/Project.vue'),
+  },
 ];
 
 const router = new VueRouter({

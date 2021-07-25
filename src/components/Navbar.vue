@@ -20,6 +20,15 @@
             <li class="nav-item ps-3">
               <router-link to="/achievement" class="nav-link text-white">Achievement</router-link>
             </li>
+            <li class="nav-item ps-3">
+              <router-link to="/hire" class="nav-link text-white">Hire Me</router-link>
+            </li>
+            <li class="nav-item ps-3">
+              <router-link to="/project" class="nav-link text-white">Project</router-link>
+            </li>
+            <li class="nav-item ps-3">
+              <router-link to="/contact" class="nav-link text-white">Contact</router-link>
+            </li>
           </ul>
         </div>
       </div>

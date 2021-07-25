@@ -11,17 +11,32 @@
           </div>
         </div>
         <div class="row">
-          <div class="card container">
-            <div class="card-body">
-              <ul>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span>Mikrotik network olympiad participant - 2019</li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-                <li><span class="fas fa-trophy text-warning mt-3 px-3"></span></li>
-              </ul>
+          <!-- HTML -->
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="100">
+            <div class="card p-3 mb-2 shadow-lg">
+              <div class="d-flex justify-content-between">
+                <div class="d-flex flex-row align-items-center">
+                  <div class="icon"><i class="fas fa-trophy fa-sm"></i></div>
+                  <div class="ms-2 c-details">
+                    <h6 class="mb-0">MikroTik APJII</h6>
+                    <span>Olympics Participant 2019 </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="150">
+            <div class="card p-3 mb-2 shadow-lg">
+              <div class="d-flex justify-content-between">
+                <div class="d-flex flex-row align-items-center">
+                  <div class="icon"><i class="fas fa-trophy fa-sm"></i></div>
+                  <div class="ms-2 c-details">
+                    <h6 class="mb-0">OTN Web</h6>
+                    <span>Olympics Participant 2019</span>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

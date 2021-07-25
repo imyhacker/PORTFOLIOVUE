@@ -122,24 +122,8 @@
           </div>
         </div>
 
-        <!-- React -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="450">
-          <div class="card p-3 mb-2 shadow-lg">
-            <div class="d-flex justify-content-between">
-              <div class="d-flex flex-row align-items-center">
-                <div class="icon"><i class="fab fa-react fa-sm"></i></div>
-                <div class="ms-2 c-details">
-                  <h6 class="mb-0">ReactJs</h6>
-                  <span>1 Month Experience</span>
-                </div>
-              </div>
-              <div class="badge"><span>Coding</span></div>
-            </div>
-          </div>
-        </div>
-
         <!-- Bootstrap -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="500">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="450">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -155,7 +139,7 @@
         </div>
 
         <!-- Linux -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="550">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="500">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -171,7 +155,7 @@
         </div>
 
         <!-- Server -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="550">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -187,7 +171,7 @@
         </div>
 
         <!-- Cisco -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="650">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="600">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -203,7 +187,7 @@
         </div>
 
         <!-- MikroTik -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="700">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="650">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -219,7 +203,7 @@
         </div>
 
         <!-- EX -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="750">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="700">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
@@ -235,7 +219,7 @@
         </div>
 
         <!-- EX -->
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="800">
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="750">
           <div class="card p-3 mb-2 shadow-lg">
             <div class="d-flex justify-content-between">
               <div class="d-flex flex-row align-items-center">
