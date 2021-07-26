@@ -62,7 +62,7 @@
                           <h5><b>Network Engineer</b></h5>
                         </div>
                         <div class="col-md-12" style="color: #A1A1A7;font-size:14px">
-                          ± 4 Years experience
+                          ± 3 Years experience
                         </div>
                       </div>
                     </div>

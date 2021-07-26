@@ -79,6 +79,17 @@
             </div>
           </div>
         </div>
+        <div class="col-md-4 mt-3">
+          <div class="card shadow-lg" style="width: auto;" data-aos="fade-up" data-aos-delay="350">
+            <img src="../assets/projects/project7.png" class="card-img-top" alt="..." />
+            <div class="card-body">
+              <p class="card-text">Student Attendance App - 2020</p>
+              <hr />
+              <span class="badge rounded-pill bg-danger shadow-sm">Laravel 8</span>
+              <span class="badge rounded-pill bg-primary shadow-sm">Bootstrap4</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

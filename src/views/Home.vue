@@ -10,7 +10,7 @@
         <p class="text-white fw-bolder font-monospace" data-aos="flip-down" data-aos-delay="1000">
           Web Developer | Content Creator
         </p>
-        <a class="btn btn-outline-danger btn-sm cus-btn text-white" href="#" role="button">Knew Me More </a>
+        <router-link class="btn btn-outline-danger btn-sm cus-btn text-white" to="/about" role="button">Knew Me More </router-link>
       </div>
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">

@@ -21,7 +21,7 @@
               <router-link to="/achievement" class="nav-link text-white">Achievement</router-link>
             </li>
             <li class="nav-item ps-3">
-              <router-link to="/hire" class="nav-link text-white">Hire Me</router-link>
+              <router-link to="/exp" class="nav-link text-white">Experience</router-link>
             </li>
             <li class="nav-item ps-3">
               <router-link to="/project" class="nav-link text-white">Project</router-link>

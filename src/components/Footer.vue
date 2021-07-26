@@ -1,7 +1,7 @@
 <template>
   <div>
-    <footer class="text-center">
-      asd
+    <footer class="text-center mt-5 mb-3">
+      Copyright @ Arikun - 2021
     </footer>
   </div>
 </template>
